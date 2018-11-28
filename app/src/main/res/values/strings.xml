@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DateCalculator</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="work_days_name">Work Days</string>
+    <string name="date_difference_name">Date Difference</string>
+    <string name="date_Interval_name">Date Interval</string>
+    <string name="from_date_hint">pick date</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="from_date_picker">fromDatePicker</string>
+    <string name="to_date_picker">toDatePicker</string>
+</resources>
